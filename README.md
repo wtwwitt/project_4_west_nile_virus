@@ -96,7 +96,8 @@ From the map visualization above, it is evident that the spray area from the spr
 
 ### Suggestion
 ![spray_over_wnv.png](image/spray_over_wnv.png)
-As observed in the visualization above, colors without opacity represent locations that have been sprayed, while the circles denote areas with mosquito presence—where the size of the circle corresponds to the mosquito count. Yellow circles indicate the presence of the West Nile virus in the mosquitoes.
+
+Colors without opacity represent locations that have been sprayed, while the circles denote areas with mosquito presence—where the size of the circle corresponds to the mosquito count. Yellow circles indicate the presence of the West Nile virus in the mosquitoes.
 
 Rather than randomly spraying areas, we recommend that the Chicago Department of Public Health (CDPH) utilizes the predictive model to strategically deploy officers for spraying. This approach aims to optimize the use of resources by targeting areas predicted to have a higher risk of West Nile virus transmission based on the model's insights.
 
