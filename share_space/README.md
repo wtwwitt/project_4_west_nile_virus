@@ -65,15 +65,21 @@ Another boxplot mentioned about Resultant Wind Direction and Average Wind Speed.
 # In Conclusion
 ## Cost & Benefit Analysis
 Chicago Health Public has look through the analysis from West Nile Virus. We would like to announce what citizen have to do next. First of all, the Chicago Health Public has to conduct infection prevention and control (IPC) in the context of West Nile Virus in this following:
-- Wear long pant and long sleeve shirts to prevent mosquito's bite
+- Avoid mosquito bites by using insect repellent, wearing long sleeves and pants, and staying indoors during peak mosquito hours.
 - If citizen does not have important things to do, please stay at home
 - Prepare medicines if possible when citizen infected
+- Eliminate mosquito breeding grounds around your home by emptying containers of standing water
+- Report dead birds to your local health department
 
 ### Cost
-There are costs of West Nile Virus divided by two types: direct and indirect costs. Direct costs are those that can be directly attributed to West Nile Virus, expecially, pesticide spray and trap for preventing mosquitoes, medical expense, and funeral expenses. Indirect costs are those that are not directly caused by WNV, but are still associated with the disease, such as the cost of vector control and surveillance activities. 
+There are costs of West Nile Virus divided by two types: direct and indirect costs. Direct costs are those that can be directly attributed to West Nile Virus, expecially, pesticide spray and trap for preventing mosquitoes, medical expense, and funeral expenses. Indirect costs are those that are not directly caused by WNV, but are still associated with the disease, such as the cost of vector control and surveillance activities.
 
+![spray_location.png](image/spray_location.png)
+
+From map visualized above, the spray area from spray dataset is covered from Chicago. However, the spray is not covered all the West Nile present (yellow spot). That's mean this solution is not effective much, but not least because we can assume that when there are possible mosquitoes which have virus fly away from spray area. Plus, pesticides are not always effective, and they can also have negative environmental and health effects. In some cases, the use of pesticides may actually increase the risk of WNV transmission by selecting for pesticide-resistant mosquitoes.
 
 ### Benefit
-
-How effective of spray after applie over Chicago?
+- Reduced risk of WNV transmission: Pesticides can help to reduce the number of mosquitoes that are able to transmit WNV, which can lead to a lower incidence of WNF.
+- Protection of public health: WNV can cause serious illness and death, so reducing the risk of transmission can help to protect public health
+- Economic benefits: WNV can have a significant economic impact, due to the costs of medical care and lost productivity. Preventing WNV transmission can help to reduce these economic costs
 
