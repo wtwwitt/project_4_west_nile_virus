@@ -42,19 +42,19 @@ Chicago Health Public concerns West Nile virus epidemic in Chicago, United State
 
 ## Exploratory Data Analysis
 
-![wnv_month.png](../image/wnv_month.png)
+![wnv_month.png](image/wnv_month.png)
 
 This bar graph shows that the number of West Nile Virus appeared. There are 3 months have shown which are July, August, and September. August has the highest number of virus which is approximately 350 presents, followed by September.
 
-![wnv_mosquito_species.png](../image/wnv_mosquito_species.png)
+![wnv_mosquito_species.png](image/wnv_mosquito_species.png)
 
 The bar graph shows the number of mosquito's species which have virus or not. 
 
-![boxplot_tavg_preciptotal_stnpressure.png](../image/boxplot_tavg_preciptotal_stnpressure.png)
+![boxplot_tavg_preciptotal_stnpressure.png](image/boxplot_tavg_preciptotal_stnpressure.png)
 
 This boxplot shows correlate between West Nile Present Virus and other factors (Temperature Average, Total Preciptation, Station Pressure)
 
-![boxplot_resultdir_avgspeed.png](../image/boxplot_resultdir_avgspeed.png)
+![boxplot_resultdir_avgspeed.png](image/boxplot_resultdir_avgspeed.png)
 
 Another boxplot mentioned about Resultant Wind Direction and Average Wind Speed. 
 
