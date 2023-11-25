@@ -1,11 +1,12 @@
 # Project 4: West Nile Virus Disease
 ## Problem Statement
-Better for Life Agency concerns West Nile virus epidemic in Chicago, United State. We are finding volunteers as doctors, nurses, and any medical volunteers who would like to help West Nile Virus patients. But first, we would like to know the data which can inform in this following:
+Chicago Health Public concerns West Nile virus epidemic in Chicago, United State. We are finding volunteers as doctors, nurses, and any medical volunteers who would like to help West Nile Virus patients. But first, we would like to know the data which can inform in this following:
 > 1. How possible rate in West Nile Present in Chicago?
 > 2. Where is West Nile present? We assume that there are potential patients there.
 > 3. When did West Nile present? We can compare date data which date is the highest virus present.
 
 ## Data Dictionary
+### Train Data
 | Data Name | Description | Type | Example |
 | --------- | ----------- | ---- | ------- |
 | Id | Show ID | String | 123456|
@@ -21,18 +22,56 @@ Better for Life Agency concerns West Nile virus epidemic in Chicago, United Stat
 | count_prev_week_records | Count Virus Present Previous Week | Boolean | 0,1 |
 | Wnvpresent | Show West Nile Virus Present | Boolean | 0,1 |
 
+### Weather Data
+| Data Name | Description | Type | Example |
+| --------- | ----------- | ---- | ------- |
+| Station | Show Station Number | String | 1 |
+| Date | Show Date | Datetime | 2007-01-01 |
+| Tavg | Temperature Average | String | 65 |
+| StnPressure | Station Pressure | Float | 22.12 | 
+| ResultDir | Show the wind direction | Integer | 23 |
+| AvgSpeed | Show Average Wind Speed | Float | 20.5 |
+
+### Spray Data
+| Data Name | Description | Type | Example |
+| --------- | ----------- | ---- | ------- |
+| Date | Show Date | Datetime | 2011-01-01 |
+| Latitude | Latitude | float | 42.391623 |
+| Longitude | Longitude | float | -88.089163 |
+
+
 ## Exploratory Data Analysis
 
-![wnv_month.png](image/wnv_month.png)
+![wnv_month.png](../image/wnv_month.png)
 
 This bar graph shows that the number of West Nile Virus appeared. There are 3 months have shown which are July, August, and September. August has the highest number of virus which is approximately 350 presents, followed by September.
 
-![wnv_mosquito_species.png](image/wnv_mosquito_species.png)
+![wnv_mosquito_species.png](../image/wnv_mosquito_species.png)
 
 The bar graph shows the number of mosquito's species which have virus or not. 
 
+![boxplot_tavg_preciptotal_stnpressure.png](../image/boxplot_tavg_preciptotal_stnpressure.png)
+
+This boxplot shows correlate between West Nile Present Virus and other factors (Temperature Average, Total Preciptation, Station Pressure)
+
+![boxplot_resultdir_avgspeed.png](../image/boxplot_resultdir_avgspeed.png)
+
+Another boxplot mentioned about Resultant Wind Direction and Average Wind Speed. 
 
 ## Error Analysis
 
 
-## Cost Analysis
+## Cost & Benefit Analysis
+Chicago Health Public has look through the analysis from West Nile Virus. We would like to announce what citizen have to do next. First of all, the Chicago Health Public has to conduct infection prevention and control (IPC) in the context of West Nile Virus in this following:
+- Wear long pant and long sleeve shirts to prevent mosquito's bite
+- If citizen does not have important things to do, please stay at home
+- 
+
+### Cost
+The cost 
+
+
+### Benefit
+
+How effective of spray after applie over Chicago?
+
