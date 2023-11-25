@@ -74,7 +74,7 @@ Chicago Health Public has look through the analysis from West Nile Virus. We wou
 ### Cost
 There are costs of West Nile Virus divided by two types: direct and indirect costs. Direct costs are those that can be directly attributed to West Nile Virus, expecially, pesticide spray and trap for preventing mosquitoes, medical expense, and funeral expenses. Indirect costs are those that are not directly caused by WNV, but are still associated with the disease, such as the cost of vector control and surveillance activities.
 
-![spray_location.png](image/spray_location.png)
+![spray_over_wnv.png](image/spray_over_wnv.png)
 
 From map visualized above, the spray area from spray dataset is covered from Chicago. However, the spray is not covered all the West Nile present (yellow spot). That's mean this solution is not effective much, but not least because we can assume that when there are possible mosquitoes which have virus fly away from spray area. Plus, pesticides are not always effective, and they can also have negative environmental and health effects. In some cases, the use of pesticides may actually increase the risk of WNV transmission by selecting for pesticide-resistant mosquitoes.
 
