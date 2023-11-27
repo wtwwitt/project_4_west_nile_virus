@@ -20,8 +20,8 @@ We will use the following data to create a model that can predict the presence o
 | Street | Street Name | String | N OAK PARK |
 | Trap | Trap Code Number | String | T002 |
 | AddressNumberAndStreet | Address and Street | String | 4100 N OAK PARK AVE |
-| Latitude | Show Latitude | String | 41.867108 |
-| Longitude | Show Longitude | String | -87.654224 |
+| Latitude | Show Latitude | float | 41.867108 |
+| Longitude | Show Longitude | float | -87.654224 |
 | count_prev_week_records | Count Virus Present Previous Week | Boolean | 0,1 |
 | Wnvpresent | Show West Nile Virus Present | Boolean | 0,1 |
 
